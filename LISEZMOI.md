@@ -32,6 +32,8 @@ et écrit son certificat.
 | Guide | Quoi |
 |---|---|
 | [Reconditionner un lecteur de disquette 3½](guides/GUIDE-LECTEURS-DISQUETTE-CLUB.pdf) | la règle d'or, l'anatomie, les lubrifiants recommandés, la recette en 7 étapes, le dépannage |
+| [Les commandes CP/M](guides/GUIDE-COMMANDES-CPM-CLUB.pdf) | de « je ne connais que DIR » à la vue complète : les 6 intégrées et leurs pièges, les utilitaires, le livre de recettes PIP, CP/M 3, Z-System, RomWBW |
+| [CP437, Latin-1 et la couleur ANSI](guides/GUIDE-CP437-CARACTERES-CLUB.pdf) | écrire des accents et dessiner des cadres en Z80 sans se faire manger un octet : les deux mondes, les tables complètes, la boîte à fenêtres, la passerelle des accents |
 
 ## À venir
 

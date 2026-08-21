@@ -36,6 +36,8 @@ each kit ships with an English README.
 | Guide | What it covers |
 |---|---|
 | [Reconditioning a 3½" floppy drive](guides/GUIDE-LECTEURS-DISQUETTE-CLUB.pdf) (French) | the golden rule, drive anatomy, recommended lubricants, a 7-step recipe, troubleshooting |
+| [CP/M commands](guides/GUIDE-COMMANDES-CPM-CLUB.pdf) (French) | from “I only know DIR” to the full picture: the 6 built-ins and their traps, the utilities, a PIP cookbook, CP/M 3, Z-System, RomWBW |
+| [CP437, Latin-1 and ANSI color](guides/GUIDE-CP437-CARACTERES-CLUB.pdf) (French) | writing accents and drawing frames in Z80 without losing a byte: the two worlds, full tables, the window toolbox, the accent bridge |
 
 ## Coming up
 
