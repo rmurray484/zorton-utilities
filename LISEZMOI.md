@@ -42,6 +42,19 @@ RC2014 *nées certifiées* : conçues testables, livrées avec leur
 compagnon et leur certificat. Les rendus et les kits paraîtront ici
 quand le banc aura dit son mot.
 
+Les deux aînées sont déjà sur la table — premiers rendus :
+
+**ZC001 — La Vigie** : analyseur logique 48 canaux directement sur le
+bus RC2014 (2 Raspberry Pi Pico + 6 tampons), tout traversant.
+
+![ZC001 La Vigie](cartes/ZC001-la-vigie.png)
+
+**ZC002 — La Plaque 14** : fond de panier 14 fentes à bus étendu
+(2×40), alimentation surveillée.
+
+![ZC002 La Plaque 14](cartes/ZC002-plaque-14.png)
+
+
 ## Licence
 
 Voir [LICENCE.md](LICENCE.md) — usage personnel libre, commercial sur

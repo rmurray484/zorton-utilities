@@ -46,6 +46,19 @@ cards *born certified*: designed testable, shipped with their
 companion tool and their certificate. Renders and kits will appear
 here once the bench has spoken.
 
+The two eldest are already on the table — first renders:
+
+**ZC001 — La Vigie**: a 48-channel logic analyzer right on the RC2014
+bus (2 Raspberry Pi Picos + 6 buffers), all through-hole.
+
+![ZC001 La Vigie](cartes/ZC001-la-vigie.png)
+
+**ZC002 — La Plaque 14**: a 14-slot extended-bus backplane (2×40),
+with supervised power.
+
+![ZC002 La Plaque 14](cartes/ZC002-plaque-14.png)
+
+
 ## License
 
 See [LICENCE.md](LICENCE.md) — free for personal use, commercial by
