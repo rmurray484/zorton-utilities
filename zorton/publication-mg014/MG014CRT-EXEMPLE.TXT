@@ -1,0 +1,27 @@
+=============================================================
+   CERTIFICAT DE BANC - ZORTON                               
+   Assurance fonctionnement reel                             
+=============================================================
+Carte    : MG014 - interface parallele 82C55, port DB25      
+Banc     : RC2014/RomWBW/ZPM3 (Zed II), jour CP/M J01810
+Base     : 40h (ports 40h a 43h)                    
+-------------------------------------------------------------
+Epreuves passees :                                           
+  1. Verrous mode 0 (A, B, C) : motifs 00 FF 55 AA plus bit  
+     baladeur - 96 ecritures relues, 0 faute                 
+  2. Decodage de registre : chaque port repond a sa porte    
+  3. Mecanique BSR du port C : 16 set/reset bit a bit, 0     
+     faute                                                   
+  4. DEL embarquee : exercee (clignotements + chenillard)    
+  5. Carte rendue a l'etat sur (tout en entree, etat reset)  
+-------------------------------------------------------------
+VERDICT  : MECANIQUE INTERNE EPROUVEE - CARTE SAINE          
+                                                             
+                 __/\__                                      
+                 \    /      *  EPROUVE ZORTON  *            
+                 /_  _\      l'etoile ne se donne            
+                   \/        qu'au merite                    
+                                                             
+Richard Murray + Claude - l'atelier Zorton                   
+Outil : MG014.COM v2.0 (compagnon de la carte, francais)     
+=============================================================
